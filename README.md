@@ -31,7 +31,15 @@ I design and ship **end-to-end web systems**—from database modeling and APIs t
 
 **Email:** [cecb2023-3381-92168@bicol-u.edu.ph](mailto:cecb2023-3381-92168@bicol-u.edu.ph)
 
-<p align="left"><a href="https://github.com/charlsbarquin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="28" width="36" /></a>&nbsp;<a href="https://www.linkedin.com/in/charls-emil-barquin-404b66404/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="28" width="36" /></a>&nbsp;<a href="https://www.facebook.com/charls.barquin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="28" width="36" /></a>&nbsp;<a href="https://www.instagram.com/chrls.barquin_/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="28" width="36" /></a>&nbsp;<a href="https://www.youtube.com/@charlsemilbarquin5363" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="28" width="36" /></a></p>
+<table>
+  <tr>
+    <td><a href="https://github.com/charlsbarquin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="28" width="36" /></a></td>
+    <td><a href="https://www.linkedin.com/in/charls-emil-barquin-404b66404/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="28" width="36" /></a></td>
+    <td><a href="https://www.facebook.com/charls.barquin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="28" width="36" /></a></td>
+    <td><a href="https://www.instagram.com/chrls.barquin_/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="28" width="36" /></a></td>
+    <td><a href="https://www.youtube.com/@charlsemilbarquin5363" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="28" width="36" /></a></td>
+  </tr>
+</table>
 
 ---
 
