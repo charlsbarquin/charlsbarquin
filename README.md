@@ -38,8 +38,6 @@ I’m an **Information Systems** student who builds **web systems end to end**: 
 
 **What drives me:** turning messy real-world requirements into **working software**, then tightening it with testing, debugging, and performance checks. I prefer small, verifiable steps over speculative complexity.
 
-> **In one line:** practical systems, honest data models, and UIs that support real workflows—not demo-only screens.
-
 ---
 
 ## At a glance
@@ -114,8 +112,6 @@ I’m open to **web-based systems**, **course-related projects with a defined ou
 **Data**  
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" alt="MongoDB, MySQL, PostgreSQL" />
 
-<sub>Also: MariaDB (MySQL-compatible)</sub>
-
 **Platform & workflow**  
 <img src="https://skillicons.dev/icons?i=git,nginx" alt="Platform and workflow" />
 
@@ -125,12 +121,6 @@ I’m open to **web-based systems**, **course-related projects with a defined ou
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=charlsbarquin&custom_title=Contribution%20activity&hide_border=true&bg_color=ffffff&color=0e75b6&line=0e75b6&point=0e75b6&area=true&area_color=0e75b633" alt="Contribution activity graph" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=charlsbarquin&column=7&margin-w=10&margin-h=10&theme=flat&no-frame=true" alt="GitHub trophies" />
-  </a>
 </p>
 
 <p align="center">
