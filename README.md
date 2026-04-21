@@ -4,14 +4,13 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Information+Systems+%E2%80%A2+Full-stack+web;MERN+%E2%80%A2+APIs+%E2%80%A2+Data-backed+UIs;Shipping+features+with+clear+structure+%26+solid+data" alt="Headline" />
 
-<img src="https://komarev.com/ghpvc/?username=charlsbarquin&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-
-<br />
-
-<img src="https://img.shields.io/badge/Role-Student%20%26%20builder-0e75b6?style=flat-square" alt="Role" />
-<img src="https://img.shields.io/badge/Focus-Full--stack%20web-0e75b6?style=flat-square" alt="Focus" />
-<img src="https://img.shields.io/badge/Stack-MERN-0e75b6?style=flat-square" alt="Stack" />
-<img src="https://img.shields.io/badge/Open%20to-collaboration-0e75b6?style=flat-square" alt="Open to collaboration" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Student%20%26%20builder-0e75b6?style=flat-square" alt="Role" />
+  <img src="https://img.shields.io/badge/Focus-Full--stack%20web-0e75b6?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Stack-MERN-0e75b6?style=flat-square" alt="Stack" />
+  <img src="https://img.shields.io/badge/Open%20to-collaboration-0e75b6?style=flat-square" alt="Open to collaboration" />
+  <img src="https://komarev.com/ghpvc/?username=charlsbarquin&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+</p>
 
 </div>
 
@@ -26,7 +25,6 @@
 - [Principles](#principles)
 - [Learning focus](#learning-focus)
 - [Collaboration & contact](#collaboration--contact)
-- [Featured work](#featured-work)
 - [Tech stack](#tech-stack)
 - [GitHub activity](#github-activity)
 
@@ -90,9 +88,7 @@ I’m an **Information Systems** student who builds **web systems end to end**: 
 
 I’m open to **web-based systems**, **course-related projects with a defined outcome**, and **small open-source tools** with a clear scope. I also appreciate guidance on **scalable architecture**, **backend design**, and **performance optimization** when projects start to grow.
 
-**Email:** [cecb2023-3381-92168@bicol-university.edu.ph](mailto:cecb2023-3381-92168@bicol-university.edu.ph)
-
-<sub>If the address above bounces, use your active Bicol U email from your student record—the important part is a clear subject line (e.g. “Collaboration — [project idea]”).</sub>
+**Email:** [cecb2023-3381-92168@bicol-u.edu.ph](mailto:cecb2023-3381-92168@bicol-u.edu.ph)
 
 <p align="center">
   <a href="https://github.com/charlsbarquin"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -101,20 +97,6 @@ I’m open to **web-based systems**, **course-related projects with a defined ou
   <a href="https://www.instagram.com/chrls.barquin_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.youtube.com/@charlsemilbarquin5363"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </p>
-
----
-
-## Featured work
-
-Replace the rows below with **your real repositories** (name, link, one-line description). Remove the placeholder row if you prefer only pinned repos on your profile.
-
-| Project | Stack | Description |
-| :--- | :--- | :--- |
-| *[Your MERN project](https://github.com/charlsbarquin/REPO)* | MERN | Full-stack app with realistic workflows and database-backed features |
-| *[Your API / backend focus](https://github.com/charlsbarquin/REPO)* | Node · Express · MongoDB | REST API with validation, auth-ready structure, and clear routes |
-| *[Your UI / React focus](https://github.com/charlsbarquin/REPO)* | React | Component-driven UI with responsive layout and maintainable state |
-
-<sub>Tip: keep this table to **2–3** strong projects—quality beats quantity for recruiters.</sub>
 
 ---
 
