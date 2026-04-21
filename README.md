@@ -31,15 +31,11 @@ I design and ship **end-to-end web systems**—from database modeling and APIs t
 
 **Email:** [cecb2023-3381-92168@bicol-u.edu.ph](mailto:cecb2023-3381-92168@bicol-u.edu.ph)
 
-<table>
-  <tr>
-    <td><a href="https://github.com/charlsbarquin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="28" width="36" /></a></td>
-    <td><a href="https://www.linkedin.com/in/charls-emil-barquin-404b66404/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="28" width="36" /></a></td>
-    <td><a href="https://www.facebook.com/charls.barquin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="28" width="36" /></a></td>
-    <td><a href="https://www.instagram.com/chrls.barquin_/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="28" width="36" /></a></td>
-    <td><a href="https://www.youtube.com/@charlsemilbarquin5363" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="28" width="36" /></a></td>
-  </tr>
-</table>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/charlsbarquin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charls-emil-barquin-404b66404/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/charls.barquin)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/chrls.barquin_/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@charlsemilbarquin5363)
 
 ---
 
