@@ -73,7 +73,9 @@ I’m open to **web-based systems**, **academic projects with a clear goal**, an
 <img src="https://skillicons.dev/icons?i=laravel,postman" alt="Backend and APIs" />
 
 **Data**  
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,mariadb,postgres" alt="Data" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" alt="MongoDB, MySQL, PostgreSQL" />
+
+<sub>Also: MariaDB (MySQL-compatible)</sub>
 
 **Platform & workflow**  
 <img src="https://skillicons.dev/icons?i=git,nginx" alt="Platform and workflow" />
