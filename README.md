@@ -42,32 +42,19 @@ I design and ship **end-to-end web systems**—from database modeling and APIs t
 ## Languages & tools
 
 **Languages & runtime**  
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40"/></a>
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40"/></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=php" alt="PHP" width="40" height="40"/></a>
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/></a>
+<img src="https://skillicons.dev/icons?i=js,ts,cpp,php,nodejs" alt="JavaScript, TypeScript, C++, PHP, Node.js" />
 
 **Frontend**  
-<a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" height="40"/></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40"/></a>
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,html,css" alt="React, Bootstrap, Tailwind, HTML, CSS" />
 
 **Backend & APIs**  
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="40" height="40"/></a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40"/></a>
+<img src="https://skillicons.dev/icons?i=laravel,postman" alt="Laravel, Postman" />
 
 **Data**  
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/></a>
-<a href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mariadb" alt="MariaDB" width="40" height="40"/></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40"/></a>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,mariadb,postgres" alt="MongoDB, MySQL, MariaDB, PostgreSQL" />
 
 **Platform & workflow**  
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/></a>
-<a href="https://nginx.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="40" height="40"/></a>
+<img src="https://skillicons.dev/icons?i=git,nginx" alt="Git, Nginx" />
 
 ---
 
